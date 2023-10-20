@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on malware analysis of droppers/downloaders with a focus on powershell and js scripts.
+- 🌱 I’m currently learning about reverse engineering.
+- 👯 I’m looking to collaborate on anything.
+- 🤔 I’m looking for help with everything.
+- 💬 Ask me about python, c++, js, html/css, and malware analysis.
+- 😄 Pronouns: he/him
